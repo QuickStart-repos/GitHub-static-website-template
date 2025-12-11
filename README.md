@@ -2,6 +2,11 @@
 
 This is a minimal static website template for GitHub Pages or any simple project.
 
+## issues
+if you have any issues or requests go to the [main repo](https://github.com/QuickStart-repos/QuickStart-repos)
+and submit it.
+
+
 ## Structure
 
 - `index.html` – main page
